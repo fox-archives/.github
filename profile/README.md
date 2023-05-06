@@ -1,9 +1,9 @@
 My old projects.
 
 I probably have many archived projects because I was quite particular, rigid, and perfectionist since an adolescent. As a result, I have had to unlearn those bad
-habits and traits through writing these apps. Of course, lack of experience and interest are other contributing factors to these archived projects. Besides learning
+habits and traits through writing these apps. Of course, lack of experience and interest are other contributing factors. Besides learning
 the concrete skills, these projects helped me improve and tune my personal coding methodology and technique. This document lists notable projects that I have worked
-on, and what they were about and what I learned.
+on, and what they were about and what I learned. Of course, not all are complete or functional - but most are.
 
 Some include (roughly chronologically):
 
@@ -36,7 +36,7 @@ Some include (roughly chronologically):
   - Fully responsive [periodic table](https://en.wikipedia.org/wiki/Periodic_table) for the web
   - First full-stack project
   - First time I deployed to cloud (DigitalOcean VM) and registered a domain (aperiodictable.com, chemtable.app)
-  - Created to rival [ptable.com](https://ptable.com), since at the time it was not implement responsive design
+  - Created to rival [ptable.com](https://ptable.com), since at the time it did not implement responsive design
   - Wrote v2 as an improvement, but stalled due to performance issues I could not fix at the time
   - Described in my blog post [_Frontend Web Development: My First Year_](https://hyperupcall.github.io/blog/posts/front-end-web-dev-a-years-reflection)
   - skills: Git, NodeJS, ExpressJS, GraphQL, Gulp, VueJS, HTML, SCSS, JavaScript, [Mathematica](https://www.wolfram.com/mathematica)
@@ -58,6 +58,7 @@ Some include (roughly chronologically):
   - Configuration Manager
   - Learned how bloated requirements and ambitious goals leads to poor outcomes
   - Learned the hard way of choosing the wrong language
+  - Learned the negative tradeoffs of highly generalized code
 - [dotfox](https://github.com/fox-archives/dotfox)
   - Dotfile manager (symlinker)
   - Worked quite well until I wrote [dotmgr](https://github.com/hyperupcall/dotmgr), which supercedes it
@@ -66,7 +67,7 @@ Some include (roughly chronologically):
   - All in one solution for managing programming projects
   - Learned (yet again) about being too ambitious, over-engineering solutions
   - Learned what TDD is _not_
-  - skills: Git, [gRPC](https://grpc.io), [NATS.io](https://nats.io), Docker, Typescript, JavaScript
+  - skills: Git, [gRPC](https://grpc.io), [NATS.io](https://nats.io), Docker, Docker Compose, TypeScript, JavaScript
 - [typescript-runtime-transpiler](https://github.com/fox-archives/typescript-runtime-transpiler)
   - Transpiles TypeScript/JavaScript written for the NodeJS runtime environment to [Deno](https://deno.com)
   - Learned (yet again) of using technology that I did not need to use (because it made things harder) (Babel-like monorepo pattern)
@@ -80,7 +81,11 @@ Some include (roughly chronologically):
 
 Some not included in this organization include:
 
-- [carnival](https://github.com/replit-discord/carnival)
+- [eshsrobotics/website-challenge-2019](https://github.com/eshsrobotics/website-challenge-2019)
+  - Custom website for local high school robotics club (made for competition)
+  - Learned how to (hackily) "host" images in a GitHub repository for retrieval by a SPA (Single Page Appliation)
+  - skills: Git, VueJS, SCSS, JavaScript
+- [replit-discord/carnival](https://github.com/replit-discord/carnival)
   - Supposed to be a place for the [replit](https://replit.com) community to deploy games
-  - Learned how I wasted so time on tooling (ESLint, Webpack, Babel, PostCSS, etc.)
-  - skills: Git, VueJS, [NuxtJS](https://nuxt.com), SCSS, Postgres
+  - Learned how to time on tooling (ESLint, Webpack, Babel, PostCSS, etc.)
+  - skills: Git, VueJS, [NuxtJS](https://nuxt.com), SCSS, Postgres, [OAuth](https://oauth.net)/[OpenID Connect](https://openid.net/connect)
