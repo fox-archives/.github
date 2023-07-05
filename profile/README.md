@@ -1,8 +1,7 @@
 My old projects.
 
-I probably have many archived projects because I was quite particular, rigid, and perfectionist since an adolescent. As a result, I have had to unlearn those bad
-habits and traits through writing these apps. Of course, lack of experience and interest are other contributing factors. Besides learning
-the concrete skills, these projects helped me improve and tune my personal coding methodology and technique. This document lists notable projects that I have worked
+I probably have many archived projects because I have many ideas and I have failed a lot. Besides learning concrete skills, these projects helped
+me improve and tune my personal coding methodology and techniques. This document lists notable projects that I have worked
 on, and what they were about and what I learned. Of course, not all are complete or functional - but most are.
 
 Some include (roughly chronologically):
@@ -40,13 +39,22 @@ Some include (roughly chronologically):
   - Wrote v2 as an improvement, but stalled due to performance issues I could not fix at the time
   - Described in my blog post [_Frontend Web Development: My First Year_](https://hyperupcall.github.io/blog/posts/front-end-web-dev-a-years-reflection)
   - skills: Git, NodeJS, ExpressJS, GraphQL, Gulp, VueJS, HTML, SCSS, JavaScript, [Mathematica](https://www.wolfram.com/mathematica)
+- [dockerized-mars](https://github.com/fox-archives/dockerized-mars), [dockerized-mmlogic](https://github.com/fox-archives/dockerized-mmlogic)
+  - One of first projects using Docker
+  - skills: Git, [Docker](https://www.docker.com)
+- [infrastructure-old](https://github.com/fox-archives/infrastructure-old)
+  - First attempt at writing Infrastructure as Code to idempotently setup my homelab(s)
+  - Learned a lot about networking and userspace Linux tools
+  - Described in my blog post [_Fixing My Network after expanding the LAN_](https://hyperupcall.github.io/blog/posts/fixing-my-internal-network)
+  - Described in my blog post [_Fiddling with Ubuntu Server Images_](https://hyperupcall.github.io/blog/posts/fiddling-with-ubuntu-server-images)
+  - skills: Git, [BIND9](https://www.isc.org/bind), [Kea DHCP](https://www.isc.org/kea), [Ansible](https://www.ansible.com), [Terraform](https://www.terraform.io), Debian, Ubuntu, [cloud-init](https://cloud-init.io), [Vagrant](https://www.vagrantup.com), [Packer](https://www.packer.io), [Docker](https://www.docker.com)
 - [hacklang-sucrase](https://github.com/fox-archives/hacklang-sucrase)
   - Custom "Version" of JavaScript with keywords replaced with friends' names
   - Implemented first with [Babel](https://github.com/babel/babel), then with [Sucrase](https://github.com/alangpierce/sucrase)
   - skills: Git, JavaScript, Babel, compilers
 - [fox-night](https://github.com/fox-archives/fox-night)
   - Wrote so me and my friends from [Hack Club](https://hackclub.com) could watch movies together
-  - skills: Git, NodeJS, Ansible, Terraform, CSS, EJS, TypeScript, JavaScript
+  - skills: Git, NodeJS, [Ansible](https://www.ansible.com), [Terraform](https://www.terraform.io), CSS, EJS, TypeScript, JavaScript
 - [fox-suite](https://github.com/fox-archives/fox-suite)
   - Configuration manager for web development
   - Learned how wrapping well-known tools (on the command line) could be very poor for DX
@@ -67,7 +75,7 @@ Some include (roughly chronologically):
   - All in one solution for managing programming projects
   - Learned (yet again) about being too ambitious, over-engineering solutions
   - Learned what TDD is _not_
-  - skills: Git, [gRPC](https://grpc.io), [NATS.io](https://nats.io), Docker, Docker Compose, TypeScript, JavaScript
+  - skills: Git, [gRPC](https://grpc.io), [NATS.io](https://nats.io), [Docker](https://www.docker.com), [Docker Compose](https://docs.docker.com/compose), TypeScript, JavaScript
 - [typescript-runtime-transpiler](https://github.com/fox-archives/typescript-runtime-transpiler)
   - Transpiles TypeScript/JavaScript written for the NodeJS runtime environment to [Deno](https://deno.com)
   - Learned (yet again) of using technology that I did not need to use (because it made things harder) (Babel-like monorepo pattern)
@@ -89,3 +97,6 @@ Some not included in this organization include:
   - Supposed to be a place for the [replit](https://replit.com) community to deploy games
   - Learned how to time on tooling (ESLint, Webpack, Babel, PostCSS, etc.)
   - skills: Git, VueJS, [NuxtJS](https://nuxt.com), SCSS, Postgres, [OAuth](https://oauth.net)/[OpenID Connect](https://openid.net/connect)
+- [lusaxweb/vuesax](https://github.com/lusaxweb/vuesax)
+  - One of the first OSS Projects I've contributed to
+  - skills: Git
