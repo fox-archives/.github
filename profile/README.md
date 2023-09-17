@@ -1,10 +1,6 @@
-My old projects.
+[Edwin's](https://github.com/hyperupcall) old projects. This document lists some notable projects that I have once worked and describes what they're about and what I learned. Of course, not all are complete or functional - but most are.
 
-I probably have many archived projects because I have many ideas and I have failed a lot. Besides learning concrete skills, these projects helped
-me improve and tune my personal coding methodology and techniques. This document lists notable projects that I have worked
-on, and what they were about and what I learned. Of course, not all are complete or functional - but most are.
-
-Some include (roughly chronologically):
+They include:
 
 - [word-finder](https://github.com/fox-archives/word-finder)
   - Like scrabble for the terminal
