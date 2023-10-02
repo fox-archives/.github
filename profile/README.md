@@ -1,4 +1,4 @@
-[Edwin's](https://github.com/hyperupcall) old projects. This document lists some notable projects that I have once worked and describes what they're about and what I learned. Of course, not all are complete or functional - but most are.
+[Edwin's](https://github.com/hyperupcall) old projects. This document lists some notable projects that I have once worked on and describes what they're about and what I learned. Of course, not all are complete or functional - but most are.
 
 They include:
 
