@@ -85,6 +85,9 @@ They include:
 
 Some not included in this organization include:
 
+- [eankeen/blog](https://github.com/eankeen/blog), [hyperupcall/blog](https://github.com/hyperupcall/blog)
+  - Superseded repositories for my blog
+  - skills: Hugo, technical writing
 - [eshsrobotics/website-challenge-2019](https://github.com/eshsrobotics/website-challenge-2019)
   - Custom website for local high school robotics club (made for competition)
   - Learned how to (hackily) "host" images in a GitHub repository for retrieval by a SPA (Single Page Appliation)
