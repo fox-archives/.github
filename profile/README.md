@@ -44,9 +44,8 @@ They include:
   - Described in my blog post [_Fixing My Network after expanding the LAN_](https://hyperupcall.github.io/blog/posts/fixing-my-internal-network)
   - Described in my blog post [_Fiddling with Ubuntu Server Images_](https://hyperupcall.github.io/blog/posts/fiddling-with-ubuntu-server-images)
   - skills: Git, [BIND9](https://www.isc.org/bind), [Kea DHCP](https://www.isc.org/kea), [Ansible](https://www.ansible.com), [Terraform](https://www.terraform.io), Debian, Ubuntu, [cloud-init](https://cloud-init.io), [Vagrant](https://www.vagrantup.com), [Packer](https://www.packer.io), [Docker](https://www.docker.com)
-- [hacklang-sucrase](https://github.com/fox-archives/hacklang-sucrase)
+- [babel-hacklang](https://github.com/hyperupcall-archive/babel-hacklang)
   - Custom "Version" of JavaScript with keywords replaced with friends' names
-  - Implemented first with [Babel](https://github.com/babel/babel), then with [Sucrase](https://github.com/alangpierce/sucrase)
   - skills: Git, JavaScript, Babel, compilers
 - [fox-night](https://github.com/fox-archives/fox-night)
   - Wrote so me and my friends from [Hack Club](https://hackclub.com) could watch movies together
